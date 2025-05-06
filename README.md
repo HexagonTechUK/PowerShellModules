@@ -1,2 +1,2 @@
 # PowerShellModules
-Useful PowerShell modules to Intune device remediation
+This repository contains a collection of PowerShell modules and functions designed to assist with Microsoft Intune device remediation tasks. These scripts help automate common troubleshooting, configuration, and compliance scenarios across managed Windows devices. Whether you're resolving app issues, enforcing settings, or gathering diagnostic data, these tools provide a consistent and scalable foundation for use with Proactive Remediation and custom Intune scripts.
